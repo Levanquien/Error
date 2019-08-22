@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4dc1d38-9e41-4d21-9298-275c66bb0d4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Code/nhapdiem.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Code/xuli.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/New.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/achiab.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phepnhan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code/nhapdiem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Code/nhapdiem.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Pls4cnMT9PMWG6wmf4jX6lKKpB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566459827067</updated>
-      <workItem from="1566459828310" duration="1234000" />
+      <workItem from="1566459828310" duration="1483000" />
     </task>
     <servers />
   </component>
